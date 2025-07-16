@@ -44,6 +44,8 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+# OUTPUT
+
 ![screenshot (1)](https://github.com/user-attachments/assets/bf93a22e-4753-4fee-930e-9334825f73a1)
 ![screenshot (1)](https://github.com/user-attachments/assets/376348ef-f66f-42e8-92b6-dc2857d961a2)
 ![screenshot (4)](https://github.com/user-attachments/assets/c7265e18-6910-4bf3-99c7-d10450a903cf)
