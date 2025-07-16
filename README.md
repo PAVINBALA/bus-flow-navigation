@@ -47,7 +47,7 @@ This project is built with:
 # OUTPUT
 
 ![screenshot (1)](https://github.com/user-attachments/assets/bf93a22e-4753-4fee-930e-9334825f73a1)
-![screenshot (1)](https://github.com/user-attachments/assets/376348ef-f66f-42e8-92b6-dc2857d961a2)
+![screenshot (3)](https://github.com/user-attachments/assets/b2776d21-e0fc-4c8b-8639-b9f5fd043454)
 ![screenshot (4)](https://github.com/user-attachments/assets/c7265e18-6910-4bf3-99c7-d10450a903cf)
 ![screenshot (2)](https://github.com/user-attachments/assets/702037a3-d092-4611-a18f-42bc7a1d198c)
 
